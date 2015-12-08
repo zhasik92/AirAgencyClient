@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) throws Exception {
         switch (args[0].toLowerCase()) {
             case "file":
-                ScriptReader.execute();
+                ScriptReader.execute(args);
                 break;
             case "console":
                 Client.execute();

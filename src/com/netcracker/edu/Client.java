@@ -24,6 +24,11 @@ public class Client {
             out.println(fuser);
             fserver = in.readLine();
             System.out.println(fserver);
+            if(fserver.equals("0")){
+                System.out.println("command executed");
+            }else {
+                System.out.println("smth happend wrong");
+            }
             if (fuser.equalsIgnoreCase("close")) break;
         }
 
