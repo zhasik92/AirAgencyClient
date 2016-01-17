@@ -22,11 +22,11 @@ find_short_route Almaty London 08:20 ;0
 find_short_route Almaty London 07:20 ;0
 find_short_route Almaty London 06:50 ;0
 find_short_route Almaty Kiev 02:30 ;0
-find_short_route Almaty Minsk 03:20 ;0
+find_short_route Almaty Beijing 03:20 ;0
 buy_short_ticket Kiev Almaty 2016-10-10 n701 kz ;0
 buy_short_ticket Astana London 2016-08-09 n701 kz ;0
 buy_short_ticket Astana Chisinau 2020-12-10 n701 kz ;0
-find_routes Almaty Minsk ;0
+find_routes Almaty Beijing ;0
 buy_short_ticket Astana London 2016-11-11 n701 kz ;0
 buy_short_ticket Kiev Almaty 2017-10-10 n701 kz ;0
 buy_short_ticket Astana London 2016-08-09 n701 kz ;0
@@ -104,7 +104,6 @@ buy_short_ticket Astana London 2016-08-09 n701 kz ;0
 buy_short_ticket Astana Chisinau 2016-12-10 n701 kz ;0
 buy_ticket Astana Chisinau 2016-12-10 n701 kz ;0
 find_routes Almaty London ;0
-return_last all ;-1
 find_short_route Almaty London 11:30 ;0
 buy_short_ticket Astana London 2016-11-11 n701 kz ;0
 buy_short_ticket Kiev Almaty 2017-10-10 n701 kz ;0
@@ -147,7 +146,6 @@ buy_short_ticket Astana London 2016-08-09 n701 kz ;0
 buy_short_ticket Astana Chisinau 2016-12-10 n701 kz ;0
 buy_ticket Astana Chisinau 2016-12-10 n701 kz ;0
 find_routes Almaty London ;0
-return_last all ;-1
 find_short_route Almaty London 11:30 ;0
 buy_short_ticket Astana London 2016-11-11 n701 kz ;0
 buy_short_ticket Kiev Almaty 2017-10-10 n701 kz ;0

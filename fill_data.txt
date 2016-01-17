@@ -1,0 +1,47 @@
+add_city moscow ;0
+add_city chisinau ;0
+add_city london ;0
+add_city new-york ;0
+add_city kiev ;0
+add_city almaty ;0
+add_city astana ;0
+add_city paris ;0
+add_city berlin ;0
+add_city beijing ;0
+add_airplane airbus-a380 350 ;0
+add_airplane airbus-a370 360 ;0
+add_airplane boeing 250 ;0
+add_airplane test 1000 ;0
+add_passenger n701 kz zhas kuk 1992-01-14 zhas@mail.ru ;0
+add_passenger n702 kz galiya tulegenova 1993-04-14 nur@mail.ru ;0
+add_flight moscow chisinau 11:00:00 13:10:00 test 320 ;0
+add_flight chisinau moscow 15:00:00 17:10:00 test 310 ;0
+add_flight moscow london 17:00:00 19:10:00 test 120 ;0
+add_flight london moscow 09:00:00 12:10:00 test 102 ;0
+add_flight moscow new-york 14:00:00 19:00:00 test 450 ;0
+add_flight new-york moscow 08:00:00 15:10:00 test 420 ;0
+add_flight moscow kiev 17:00:00 19:10:00 test 120 ;0
+add_flight kiev moscow 13:00:00 16:10:00 test 150 ;0
+add_flight moscow almaty 17:00:00 20:10:00 test 120 ;0
+add_flight almaty moscow 10:00:00 13:10:00 test 140 ;0
+add_flight moscow astana 13:00:00 16:10:00 test 170 ;0
+add_flight astana moscow 17:00:00 19:10:00 test 120 ;0
+add_flight paris london 07:00:00 10:10:00 test 140 ;0
+add_flight london paris 11:00:00 14:10:00 test 220 ;0
+add_flight almaty beijing 19:00:00 22:10:00 test 320 ;0
+add_flight beijing almaty 10:00:00 1:10:00 test 325 ;0
+add_flight berlin kiev 05:00:00 07:10:00 test 100 ;0
+add_flight kiev berlin 17:00:00 19:10:00 test 120 ;0
+add_flight berlin astana 03:00:00 08:10:00 test 150 ;0
+add_flight astana berlin 18:00:00 21:10:00 test 220 ;0
+register test1 test1 ;0
+register test6 test6 ;0
+register test7 test7 ;0
+register test8 test8 ;0
+register test9 test9 ;0
+register test2 test2 ;0
+register test3 test3 ;0
+register test4 test4 ;0
+register test5 test5 ;0
+register test test ;0
+register test10 test10 ;0

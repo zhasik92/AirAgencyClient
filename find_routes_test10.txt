@@ -1,0 +1,16 @@
+find_short_route london beijing 11:30 ;0
+find_short_route london beijing 11:30 ;0
+find_short_route astana new-york 11:30 ;0
+find_short_route beijing new-york 11:30 ;0
+find_short_route astana new-york 11:30 ;0
+find_short_route beijing new-york 11:30 ;0
+find_short_route astana new-york 11:30 ;0
+find_short_route beijing new-york 11:30 ;0
+find_short_route astana new-york 11:30 ;0
+find_short_route beijing new-york 11:30 ;0
+find_short_route astana new-york 11:30 ;0
+find_short_route london beijing 11:30 ;0
+find_short_route astana new-york 11:30 ;0
+find_short_route london beijing 11:30 ;0
+find_short_route astana new-york 11:30 ;0
+find_short_route london beijing 11:30 ;0

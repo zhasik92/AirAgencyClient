@@ -1,0 +1,42 @@
+find_routes london beijing ;0
+find_routes london beijing ;0
+find_short_route london kiev 10:30 ;0
+find_routes astana new-york ;0
+find_routes beijing new-york ;0
+find_routes new-york beijing ;0
+find_short_route beijing new-york 08:00 ;0
+find_short_route london kiev 10:30 ;0
+find_routes astana new-york ;0
+find_routes london beijing ;0
+find_short_route london kiev 10:30 ;0
+find_routes astana new-york ;0
+find_routes beijing new-york ;0
+find_routes london beijing ;0
+find_short_route london kiev 10:30 ;0
+find_routes astana new-york ;0
+find_routes beijing new-york ;0
+find_routes new-york beijing ;0
+find_short_route beijing new-york 08:00 ;0
+find_routes new-york beijing ;0
+find_short_route beijing new-york 08:00 ;0
+find_routes beijing new-york ;0
+find_routes new-york beijing ;0
+find_routes london beijing ;0
+find_routes london beijing ;0
+find_short_route london kiev 10:30 ;0
+find_routes astana new-york ;0
+find_routes beijing new-york ;0
+find_routes new-york beijing ;0
+find_short_route beijing new-york 08:00 ;0
+find_short_route london kiev 10:30 ;0
+find_routes astana new-york ;0
+find_routes beijing new-york ;0
+find_routes london beijing ;0
+find_short_route london kiev 10:30 ;0
+find_routes astana new-york ;0
+find_routes beijing new-york ;0
+find_routes new-york beijing ;0
+find_short_route beijing new-york 08:00 ;0
+find_routes new-york beijing ;0
+find_short_route beijing new-york 08:00 ;0
+find_short_route beijing new-york 08:00 ;0

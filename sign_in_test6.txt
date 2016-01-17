@@ -1,0 +1,27 @@
+sign_in test6 test5 ;1
+quit ;-1
+sign_in test6 test5 ;1
+sign_in test6 test6 ;0
+sign_in test6 test4 ;1
+quit ;-1
+sign_in test5 test6 ;1
+sign_in test6 test6 ;0
+sign_in test5 test6 ;1
+quit ;-1
+sign_in test5 test6 ;1
+sign_in test6 test6 ;0
+sign_in test5 test6 ;1
+quit ;-1
+sign_in test5 test6 ;1
+sign_in test6 test6 ;0
+sign_in test5 test6 ;1
+quit ;-1
+sign_in test5 test6 ;1
+sign_in test6 test6 ;0
+sign_in test5 test6 ;1
+quit ;-1
+sign_in test5 test6 ;1
+sign_in test6 test6 ;0
+sign_in test5 test6 ;1
+quit ;-1
+sign_in test6 test6 ;0
